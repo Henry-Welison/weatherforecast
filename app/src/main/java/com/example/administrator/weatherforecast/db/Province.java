@@ -8,7 +8,7 @@ public class Province extends DataSupport {
 
     private String provinceName; //provinceName：省的名字
 
-    private int provinceCode;    //provinceCode：记录省得带好
+    private int provinceCode;    //provinceCode：记录省的代号
 
     public int getId() {
         return id;
